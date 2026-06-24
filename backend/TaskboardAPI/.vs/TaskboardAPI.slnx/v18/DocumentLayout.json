@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +79,12 @@
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\models\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,50 +94,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "TaskboardAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:53:43.053Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProjectController.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\ProjectController.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\ProjectController.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\ProjectController.cs",
-              "RelativeToolTip": "TaskboardAPI\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAADgv0cAAAAHAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskboardAPI\\appsettings.json",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.json",
+              "RelativeToolTip": "TaskboardAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-24T08:50:22.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TaskboardAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T11:19:50.944Z",
+              "WhenOpened": "2026-06-24T08:43:07.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WorkspaceRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
-              "RelativeToolTip": "TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAcwC8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T14:08:25.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WorkspaceService.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\WorkspaceService.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Services\\WorkspaceService.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\WorkspaceService.cs",
-              "RelativeToolTip": "TaskboardAPI\\Services\\WorkspaceService.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJ4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T13:42:43.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ProjectRepositroy.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\ProjectRepositroy.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\ProjectRepositroy.cs",
@@ -149,25 +143,11 @@
               "RelativeToolTip": "TaskboardAPI\\Repositories\\ProjectRepositroy.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAvwDMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T17:20:06.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T17:20:06.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TaskController.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TaskController.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\TaskController.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TaskController.cs",
-              "RelativeToolTip": "TaskboardAPI\\Controllers\\TaskController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAswGUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T17:55:01.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Services\\ProjectService.cs",
@@ -175,12 +155,11 @@
               "RelativeToolTip": "TaskboardAPI\\Services\\ProjectService.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAnwLwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T14:19:53.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T14:19:53.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Workspace.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Workspace.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Workspace.cs",
@@ -188,12 +167,83 @@
               "RelativeToolTip": "TaskboardAPI\\Models\\Workspace.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T14:56:45.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T14:56:45.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskboardAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T20:23:57.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkspaceRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
+              "RelativeToolTip": "TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T14:08:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "TaskboardAPI\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:19:58.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "TaskboardAPI\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADgv0cAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:19:50.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkspaceService.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\WorkspaceService.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Services\\WorkspaceService.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\WorkspaceService.cs",
+              "RelativeToolTip": "TaskboardAPI\\Services\\WorkspaceService.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJ4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:42:43.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskboardAPI\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T17:55:01.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "WorkspaceController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\WorkspaceController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\WorkspaceController.cs",
@@ -201,12 +251,11 @@
               "RelativeToolTip": "TaskboardAPI\\Controllers\\WorkspaceController.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAwFUAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T11:43:14.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T11:43:14.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\TaskRepository.cs",
@@ -214,12 +263,11 @@
               "RelativeToolTip": "TaskboardAPI\\Repositories\\TaskRepository.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAwwGoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T13:36:12.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T13:36:12.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Services\\TaskService.cs",
@@ -227,12 +275,11 @@
               "RelativeToolTip": "TaskboardAPI\\Services\\TaskService.cs",
               "ViewState": "AgIAAKMAAAAAAAAAAAAgwJ0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T13:38:33.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T13:38:33.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Project.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Project.cs",
@@ -244,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Task.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Task.cs",
@@ -256,31 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DbConnectionFactory.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Data\\DbConnectionFactory.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Data\\DbConnectionFactory.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Data\\DbConnectionFactory.cs",
-              "RelativeToolTip": "TaskboardAPI\\Data\\DbConnectionFactory.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAIA6wBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T15:19:58.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Users.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Users.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Users.cs",
-              "RelativeToolTip": "TaskboardAPI\\Models\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T10:46:05.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Status.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Status.cs",
@@ -292,19 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "TaskboardAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwBcAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T20:23:57.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Global.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Global.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Global.cs",
@@ -316,19 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "TaskboardAPI\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\AuthService.cs",
-              "RelativeToolTip": "TaskboardAPI\\Services\\AuthService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwCwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-01T10:17:07.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\TestController.cs",
@@ -337,18 +336,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T15:55:35.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "TaskboardAPI\\appsettings.json",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.json",
-              "RelativeToolTip": "TaskboardAPI\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-30T15:10:18.096Z"
             },
             {
               "$type": "Document",
@@ -361,18 +348,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-30T15:54:48.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TaskboardAPI\\appsettings.Development.json",
-              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.Development.json",
-              "RelativeToolTip": "TaskboardAPI\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-30T15:10:21.58Z"
             }
           ]
         }

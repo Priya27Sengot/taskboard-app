@@ -1,0 +1,11 @@
+# VS
+.vs/
+bin/
+obj/
+
+# React
+node_modules/
+build/
+
+# OS
+.DS_Store
