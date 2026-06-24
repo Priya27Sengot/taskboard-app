@@ -77,3 +77,4 @@ C:\Projects\taskboard-app\backend\TaskboardAPI\TaskboardAPI\obj\Debug\net8.0\ref
 C:\Projects\taskboard-app\backend\TaskboardAPI\TaskboardAPI\obj\Debug\net8.0\TaskboardAPI.pdb
 C:\Projects\taskboard-app\backend\TaskboardAPI\TaskboardAPI\obj\Debug\net8.0\TaskboardAPI.genruntimeconfig.cache
 C:\Projects\taskboard-app\backend\TaskboardAPI\TaskboardAPI\obj\Debug\net8.0\ref\TaskboardAPI.dll
+C:\Projects\taskboard-app\backend\TaskboardAPI\TaskboardAPI\obj\Debug\net8.0\TaskboardAPI.sourcelink.json

@@ -106,8 +106,7 @@
               "RelativeToolTip": "TaskboardAPI\\Services\\AuthService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAmwB8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T08:53:43.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T08:53:43.053Z"
             },
             {
               "$type": "Document",
@@ -119,8 +118,7 @@
               "RelativeToolTip": "TaskboardAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-24T08:50:22.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-24T08:50:22.525Z"
             },
             {
               "$type": "Document",
@@ -130,7 +128,7 @@
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "TaskboardAPI\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAmwBcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-24T08:43:07.974Z",
               "EditorCaption": ""
@@ -145,8 +143,7 @@
               "RelativeToolTip": "TaskboardAPI\\Repositories\\ProjectRepositroy.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAvwDMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T17:20:06.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-06T17:20:06.697Z"
             },
             {
               "$type": "Document",
@@ -158,8 +155,7 @@
               "RelativeToolTip": "TaskboardAPI\\Services\\ProjectService.cs",
               "ViewState": "AgIAAKcAAAAAAAAAAAAnwLwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T14:19:53.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T14:19:53.714Z"
             },
             {
               "$type": "Document",
@@ -183,8 +179,7 @@
               "RelativeToolTip": "TaskboardAPI\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T20:23:57.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T20:23:57.859Z"
             },
             {
               "$type": "Document",
@@ -196,8 +191,7 @@
               "RelativeToolTip": "TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAcwC8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-06T14:08:25.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-06T14:08:25.059Z"
             },
             {
               "$type": "Document",
@@ -209,8 +203,7 @@
               "RelativeToolTip": "TaskboardAPI\\Data\\DbConnectionFactory.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAD4vxAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T15:19:58.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-30T15:19:58.089Z"
             },
             {
               "$type": "Document",
@@ -222,8 +215,7 @@
               "RelativeToolTip": "TaskboardAPI\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAADgv0cAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T11:19:50.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T11:19:50.944Z"
             },
             {
               "$type": "Document",
@@ -247,8 +239,7 @@
               "RelativeToolTip": "TaskboardAPI\\Controllers\\TaskController.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAkwGUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T17:55:01.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T17:55:01.669Z"
             },
             {
               "$type": "Document",
@@ -284,8 +275,7 @@
               "RelativeToolTip": "TaskboardAPI\\Services\\TaskService.cs",
               "ViewState": "AgIAAKMAAAAAAAAAAAAgwJ0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-09T13:38:33.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-09T13:38:33.931Z"
             },
             {
               "$type": "Document",

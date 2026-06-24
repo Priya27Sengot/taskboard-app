@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|solutionrelative:taskboardapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D63CA105-E249-D7F1-F885-1AE7B0F4C001}|TaskboardAPI\\TaskboardAPI.csproj|c:\\projects\\taskboard-app\\backend\\taskboardapi\\taskboardapi\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,8 +101,29 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskboardAPI\\Program.cs",
+              "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Program.cs*",
+              "RelativeToolTip": "TaskboardAPI\\Program.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:42:25.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Services\\AuthService.cs",
@@ -110,19 +135,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.json",
               "RelativeDocumentMoniker": "TaskboardAPI\\appsettings.json",
               "ToolTip": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\appsettings.json",
               "RelativeToolTip": "TaskboardAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAC2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-24T08:50:22.525Z"
+              "WhenOpened": "2026-06-24T08:50:22.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\UserRepository.cs",
@@ -135,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProjectRepositroy.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\ProjectRepositroy.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\ProjectRepositroy.cs",
@@ -147,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\ProjectService.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Services\\ProjectService.cs",
@@ -159,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Workspace.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Workspace.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Workspace.cs",
@@ -171,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\AuthController.cs",
@@ -183,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WorkspaceRepository.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\WorkspaceRepository.cs",
@@ -195,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DbConnectionFactory.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Data\\DbConnectionFactory.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Data\\DbConnectionFactory.cs",
@@ -207,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\ProjectController.cs",
@@ -219,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "WorkspaceService.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\WorkspaceService.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Services\\WorkspaceService.cs",
@@ -231,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TaskController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TaskController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\TaskController.cs",
@@ -243,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WorkspaceController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\WorkspaceController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\WorkspaceController.cs",
@@ -255,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Repositories\\TaskRepository.cs",
@@ -267,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "TaskService.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Services\\TaskService.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Services\\TaskService.cs",
@@ -279,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Project.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Project.cs",
@@ -291,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Task.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Task.cs",
@@ -303,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Status.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Status.cs",
@@ -315,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Global.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Models\\Global.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Models\\Global.cs",
@@ -327,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "TestController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\TestController.cs",
@@ -339,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Projects\\taskboard-app\\backend\\TaskboardAPI\\TaskboardAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TaskboardAPI\\Controllers\\WeatherForecastController.cs",
